@@ -1,9 +1,9 @@
 {
-    "login": [{
+    "login": {
         "id": 1,
         "username": "partner1",
         "token": "23JJ23J23N23N2J3J"
-    }],
+    },
     "quotation": [{
         "id": 1,
         "customer": "partner1's customer",
