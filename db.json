@@ -3,5 +3,53 @@
         "id": 1,
         "username": "partner1",
         "token": "23JJ23J23N23N2J3J"
-    }]
+    }],
+    "quotation": [{
+        "customer": "partner1's customer",
+        "products": [{
+                "sku": "1234",
+                "qty": "2",
+                "price": "100.00",
+                "total": "200.00"
+            },
+            {
+                "sku": "54545",
+                "qty": "2",
+                "price": "100.00",
+                "total": "200.00"
+            }
+        ],
+        "discountcode": "LZA05",
+        "subtatal": "400.00",
+        "discount": "20.00",
+        "vat": "24.00",
+        "delivery": "store-247"
+    }],
+    "products": [{
+            "sku": "1234",
+            "qty": "2",
+            "list": [{
+                    "store": "247",
+                    "available": "30"
+                },
+                {
+                    "store": "247",
+                    "available": "30"
+                }
+            ]
+        },
+        {
+            "sku": "5678",
+            "qty": "2",
+            "list": [{
+                    "store": "247",
+                    "available": "30"
+                },
+                {
+                    "store": "247",
+                    "available": "30"
+                }
+            ]
+        }
+    ]
 }
