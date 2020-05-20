@@ -1,11 +1,7 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "login": [{
+        "id": 1,
+        "username": "partner1",
+        "token": "23JJ23J23N23N2J3J"
+    }]
 }
