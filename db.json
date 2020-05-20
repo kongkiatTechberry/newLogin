@@ -1,11 +1,9 @@
 {
     "login": {
-        "id": 1,
         "username": "partner1",
         "token": "23JJ23J23N23N2J3J"
     },
-    "quotation": [{
-        "id": 1,
+    "quotation": {
         "customer": "partner1's customer",
         "products": [{
                 "sku": "1234",
@@ -25,7 +23,7 @@
         "discount": "20.00",
         "vat": "24.00",
         "delivery": "store-247"
-    }],
+    },
     "products": [{
             "id": 1,
             "sku": "1234",
