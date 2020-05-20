@@ -5,6 +5,7 @@
         "token": "23JJ23J23N23N2J3J"
     }],
     "quotation": [{
+        "id": 1,
         "customer": "partner1's customer",
         "products": [{
                 "sku": "1234",
@@ -26,6 +27,7 @@
         "delivery": "store-247"
     }],
     "products": [{
+            "id": 1,
             "sku": "1234",
             "qty": "2",
             "list": [{
@@ -39,6 +41,7 @@
             ]
         },
         {
+            "id": 2,
             "sku": "5678",
             "qty": "2",
             "list": [{
